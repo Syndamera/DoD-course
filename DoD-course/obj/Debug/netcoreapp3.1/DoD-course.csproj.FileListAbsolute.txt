@@ -1,0 +1,13 @@
+C:\Users\rockt\source\repos\DoD-course\DoD-course\bin\Debug\netcoreapp3.1\DoD-course.exe
+C:\Users\rockt\source\repos\DoD-course\DoD-course\bin\Debug\netcoreapp3.1\DoD-course.deps.json
+C:\Users\rockt\source\repos\DoD-course\DoD-course\bin\Debug\netcoreapp3.1\DoD-course.runtimeconfig.json
+C:\Users\rockt\source\repos\DoD-course\DoD-course\bin\Debug\netcoreapp3.1\DoD-course.runtimeconfig.dev.json
+C:\Users\rockt\source\repos\DoD-course\DoD-course\bin\Debug\netcoreapp3.1\DoD-course.dll
+C:\Users\rockt\source\repos\DoD-course\DoD-course\bin\Debug\netcoreapp3.1\DoD-course.pdb
+C:\Users\rockt\source\repos\DoD-course\DoD-course\obj\Debug\netcoreapp3.1\DoD-course.csprojAssemblyReference.cache
+C:\Users\rockt\source\repos\DoD-course\DoD-course\obj\Debug\netcoreapp3.1\DoD-course.AssemblyInfoInputs.cache
+C:\Users\rockt\source\repos\DoD-course\DoD-course\obj\Debug\netcoreapp3.1\DoD-course.AssemblyInfo.cs
+C:\Users\rockt\source\repos\DoD-course\DoD-course\obj\Debug\netcoreapp3.1\DoD-course.csproj.CoreCompileInputs.cache
+C:\Users\rockt\source\repos\DoD-course\DoD-course\obj\Debug\netcoreapp3.1\DoD-course.dll
+C:\Users\rockt\source\repos\DoD-course\DoD-course\obj\Debug\netcoreapp3.1\DoD-course.pdb
+C:\Users\rockt\source\repos\DoD-course\DoD-course\obj\Debug\netcoreapp3.1\DoD-course.genruntimeconfig.cache
